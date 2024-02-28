@@ -1,0 +1,19 @@
+EECS 348: Software Engineering - Fall 2023
+
+EC Lab #2: Container (Docker) Programming
+
+Objective:  Learn the basics of Docker programming
+
+Due Date: Sunday, Nov 5, 2023, at 11:59 p.m.
+
+What to turn in: A link to your GitHub repository and another link to your Docker Hub repository.
+
+Grading
+
+This lab has 40 points:
+
+Docker installation [5 points]
+Task 1 - Dockerize a Web Application [15 points]
+Task 2 - Dockerize a C Program [15 points]
+Task 3 - Publish to GitHub and Docker Hub [5 points]
+Note: Please bring your laptop to the lab! 

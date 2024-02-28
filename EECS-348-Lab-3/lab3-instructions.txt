@@ -1,0 +1,30 @@
+EECS 348: Software Engineering - Fall 2023
+
+Lab #3: UML Use Case Modeling
+
+Objective: Understand the use case modeling and its structuring features
+
+Due Date: Sunday, Sep 17, 2023, at 11:59 p.m.
+
+What to turn in
+
+A PDF file includes the use case diagram and the description (an outline) of the "make payment" use case.
+
+Grading
+
+This lab has 40 points:
+
+The use case model with potential actors and use cases. [25 points]
+Appropriate use of the structuring options of UML use case diagram (e.g., include, extend, and generalization/specialization). [10]
+A short (outline) description of the "make payment" use case. [5 points]
+A hand-drawn diagram will not receive credit.
+
+Problem description
+
+Consider a cruise ship traveling software application. Your objective is to describe the requirements for purchasing a cruise ticket via a UML use case diagram. You interview staff of the cruise company, and they describe their expectations as follows (normally the interview conversations are not as descriptive as what follows): "The cruise line requires a traveler to create an account with their information so their information is in the system and they can log in at a later time. To make a cruise ship room reservation, a traveler will need very common functionalities like searching for cruise itineraries, making a reservation, making a payment, making a room selection, viewing the reservation later, making changes, or canceling a reservation. Often, the cruise lines require that a reservation include two or more travelers. Thus, the process should include an option for adding additional travelers. A traveler has multiple payment options; these include paying via a credit card, a PayPal account, or direct deposit from a bank account. Each of these methods requires authentication. If a reservation is canceled, the payment (maybe full, maybe partial) will be refunded to the traveler. The traveler making a reservation could be an individual, or a group, or a person with special needs. At some point before the cruise ship's embarkation, a traveler will need to check-in. As part of the reservation process, cruise line reservations often allow travelers to check for any weather or security warnings about the destination. ..."
+
+Model the above via the UML use case diagram. The modeling must include appropriate use case structuring features.
+
+Visual Paradigm
+
+Visual Paradigm (VP) is a drawing tool. It has multiple versions, such as community edition, modeler edition, standard edition, etc.  Since you only need to draw a simple use case model, you can use the free online version:  Visual Paradigm OnlineLinks to an external site.

@@ -1,0 +1,16 @@
+EECS 348: Software Engineering - Fall 2023
+
+Lab #2: Shell programming, make
+
+Objective:  Get familiar with shell programming and commands. Learn the basics of what a makefile does, how to create one, and get a small look into C programming.
+
+Due Date: Sunday, Sep 10, 2023, at 11:59 p.m.
+
+What to turn in: A .tar containing the edited lab files.
+
+Grading
+
+This lab has 20 points:
+
+Your program has a working make file (make and make clean) [10 points]
+Your program has the even in addition to odd number functionality [10 points]

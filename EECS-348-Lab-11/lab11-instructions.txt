@@ -1,0 +1,13 @@
+EECS 348: Software Engineering - Fall 2023
+
+Lab #11: Regular expressions
+
+Objective:  Utilize regular expressions in Unix commands to extract information from C/C++  code snippets
+
+Due date: Sunday, Dec 3, 2023, 11:59 PM
+
+What to turn in: The script_[your_last_name].sh file
+
+Grading: This lab has 40 points (4 points for each question)
+
+You will be given a bash file called script.sh which is a template containing the questions. The script.sh file includes 10 tasks to be accomplished via regular expressions. The initial three tasks pertain to an input string included in the file, while the remaining tasks focus on the C program provided. You need to give a proper regular expression for each question in the designated place in the script. It is best to run the script yourself to make sure all responses are correct before you submit the script.

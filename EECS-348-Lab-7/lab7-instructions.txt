@@ -1,0 +1,19 @@
+EECS 348: Software Engineering - Fall 2023
+
+Lab #7: Web programming: HTML, CSS, JavaScript, PHP
+
+Objective:  Learn the basics of Web programming.
+
+Due Date: Sunday, Oct 29, 2023, at 11:59 p.m.
+
+What to turn in: A link to your GitHub repository and another link to your EECS people site.
+
+Grading
+
+This lab has 45 points:
+
+HTML Profiles [10 points]
+CCS Font Control [10 points]
+JavaScript Password Verification [10 points]
+PHP Multiplication Table [10 points]
+Publish to GitHub and EECS people site [5 points]

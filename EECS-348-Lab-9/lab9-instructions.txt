@@ -1,0 +1,18 @@
+EECS 348: Software Engineering - Fall 2023
+
+Lab #9: Database (SQL) programming
+
+Objective:  Learn the basics of building and querying a database
+
+Due Date: Sunday, Nov 12, 2023, 11:59 PM
+
+What to turn in: The SQL queries and their output (one per page); submit in PDF
+
+Grading
+
+This lab has 50 points:
+
+There are 10 queries: 5 points for each correct query
+For each query, generate its output and place it on a page; do the same for all queries. Combine all in one PDF.
+For queries 8 and 9, show the table after modifying( SELECT * FROM Student;). 
+Note: The comment on your submission page is your password to log in to your MySQL server. The system will automatically assign a zero as your grade after commenting, and please ignore that grade.

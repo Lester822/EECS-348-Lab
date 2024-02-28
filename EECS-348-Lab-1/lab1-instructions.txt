@@ -1,0 +1,18 @@
+EECS 348: Software Engineering - Fall 2023
+
+Lab #1: Introduction to Git and GitHub
+
+Objective: Get familiar with Git protocol and the GitHub website. Learn basic usages of GitHub, such as creating an account and a repository, and how to push your Git repository to GitHub.
+
+Due Date: Sunday, Sep 3, 2023, at 11:59 p.m.
+
+What to turn in: A URL to your GitHub repository.  Make sure the repository is public. Otherwise, the TAs won't be able to grade it.
+
+Grading
+
+This lab has 25 points:
+
+Push your repository to GitHub and submit the link to your repository [10 points] 
+Your repository has the first commit: Add hello-world program [5 points]
+Your repository has the second commit: Change "hello" to "bye" [5 points]
+Your repository has the third commit: replace the hello-world program with the sample C program attached below [5 points]

@@ -1,0 +1,23 @@
+EECS 348: Software Engineering - Fall 2023
+
+Lab #10: Software testing
+
+Objective:  Learn the basics of detecting and fixing software faults
+
+Due date: During your lab hours
+
+What to turn in: The answers to the following five questions. For question (1), explain if there is a fault. For others, give the input, the expected (correct) output, and the actual output
+
+(1) Is there a fault in the program? If so, locate it.
+
+(2) If possible, define a test case that does not execute the fault.
+
+(3) If possible, define a test case that executes the fault but does not result in an error state.
+
+(4) If possible, define a test case that results in an error, not failure.
+
+(5) If possible, define a test case that results in failure.
+
+Grading
+
+This lab has 30 points, and every question takes up 6 points.

@@ -1,0 +1,26 @@
+EECS 348: Software Engineering - Fall 2023
+
+Lab #5: Introduction to compiled programming, IDE and Git
+
+Objective: Get familiar with an IDE, C programming, and Git. You will also learn how to push your projects from the Git repository to GitHub. For the C programming part, you will do two programs. Program descriptions are below.
+
+Due Date: Sunday, October 15, 2023, at 11:59 p.m.
+
+What to turn in: A URL to your GitHub repository. Make sure the repository is public. Otherwise, the TAs won't be able to grade it.
+
+Grading
+
+This lab has 40 points.
+
+Programming problem #1: Sales report [20 points]
+
+The programming lab assignment requires 12 monthly sales to be read and a sales report to be generated. The report should include (1) a title for the report, (2) a tabular report of the month and sales in two columns, one for the month (January, February, etc.) and one for the corresponding sales, (2) the sales summary, e.g., month with the lowest sales, month with the highest sales, and the average sales, (3) a six-month moving average also in a tabular format, and finally (4) a tabular listing of months and sales with the sales from the highest to the lowest.
+
+Sales report problem description: sales report
+
+Programming problem #2. Determining a football score possibilities [20 points]
+
+The programming lab assignment requires reading an NFL game score by a team and determining the scoring possibilities. A score is expected to be 2 or higher. Thus, the program should stop if a score less than 2 is entered.
+
+Football scoring possibilities problem description: NFL score
+

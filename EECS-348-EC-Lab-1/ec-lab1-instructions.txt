@@ -1,0 +1,19 @@
+EECS 348: Software Engineering - Fall 2023
+
+EC Lab #1: UML Class Diagrams
+
+Objective: Understand class modeling 
+
+Due Date: During your lab hours
+
+What to turn in
+
+A PDF file that includes the class modeling diagram created with Visual Paradigm
+
+Grading
+
+This lab has 20 points.
+
+Each lab section will have a different problem description provided to you by the TA during the lab.
+
+This lab must be completed during your scheduled lab time before you leave! If you are unable to create a drawing with Visual Paradigm, submit a hand-drawn version before leaving the lab and later create a Visual Paradigm drawing and submit it. The VP drawing should be the same as the hand-drawn version.
